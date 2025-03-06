@@ -67,6 +67,3 @@ pip install jupyter ipywidgets ipyfilechooser
 5. Mapped source data is appended to the target data
 6. The combined data is saved back to the target file
 7. Operation statistics are displayed
-
-## License
-This project is provided for internal use by MAGNA Internship.
